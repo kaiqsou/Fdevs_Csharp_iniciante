@@ -10,4 +10,9 @@ Abaixo, algumas breves explicações de conceitos que você encontrará, nos pro
 - `Objetos`: São elementos criados **a partir de uma classe** que representam **algo real** ou **conceitual** (como uma **pessoa**, **item**, etc).
 - `Classes`: É como um modelo que descreve as **propriedades** (atributos) e **ações** (métodos) que um objeto deve ter. Por exemplo — **saldo** (propriedade/atributo) e **sacarDinheiro** (ação/método).
 
+Como forma de aprendizado, esses são os três desafios que foram feitos:
+- `Soma de números de 1 a 10`
+- `Cálculo de IMC`
+- `Calculadora Simples` <br>
+
 Como base de estudos, dentro do curso fornecido pelo programa FDevs, foi necessário assistir as aulas feitas de **C# para Iniciantes** do [Professor Ray Carneiro](https://www.youtube.com/@RayCarneiro), em seu canal no YouTube.
