@@ -1,0 +1,8 @@
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\bin\Debug\AcademiaDotNet.CursoCsharp.Variaveis.exe.config
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\bin\Debug\AcademiaDotNet.CursoCsharp.Variaveis.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\bin\Debug\AcademiaDotNet.CursoCsharp.Variaveis.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\obj\Debug\AcademiaDotNet.CursoCsharp.Variaveis.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\obj\Debug\AcademiaDotNet.CursoCsharp.Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\obj\Debug\AcademiaDotNet.CursoCsharp.Variaveis.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\obj\Debug\AcademiaDotNet.CursoCsharp.Variaveis.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Variaveis\obj\Debug\AcademiaDotNet.CursoCsharp.Variaveis.exe.config

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986A3A30-E83C-4DCE-97D2-D65712F4565D}|Upper.FDevs.Atividade03\\Upper.FDevs.Atividade03.csproj|c:\\users\\kaiqs\\desktop\\fdevs_csharp_iniciante\\desafio\\projetofdevs\\upper.fdevs.atividade03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986A3A30-E83C-4DCE-97D2-D65712F4565D}|Upper.FDevs.Atividade03\\Upper.FDevs.Atividade03.csproj|solutionrelative:upper.fdevs.atividade03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D463B8-74E3-46DF-9D0F-A89B5DA9DD1E}|Upper.FDevs.Atividade01\\Upper.FDevs.Atividade01.csproj|C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\upper.fdevs.atividade01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D463B8-74E3-46DF-9D0F-A89B5DA9DD1E}|Upper.FDevs.Atividade01\\Upper.FDevs.Atividade01.csproj|solutionrelative:upper.fdevs.atividade01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F9ED91-7D12-4311-999B-0674AA2C1E55}|Upper.FDevs.Atividade02\\Upper.FDevs.Atividade02.csproj|C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\upper.fdevs.atividade02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F9ED91-7D12-4311-999B-0674AA2C1E55}|Upper.FDevs.Atividade02\\Upper.FDevs.Atividade02.csproj|solutionrelative:upper.fdevs.atividade02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\Upper.FDevs.Atividade03\\Program.cs",
+              "RelativeDocumentMoniker": "Upper.FDevs.Atividade03\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\Upper.FDevs.Atividade03\\Program.cs",
+              "RelativeToolTip": "Upper.FDevs.Atividade03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:56:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\Upper.FDevs.Atividade01\\Program.cs",
+              "RelativeDocumentMoniker": "Upper.FDevs.Atividade01\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\Upper.FDevs.Atividade01\\Program.cs",
+              "RelativeToolTip": "Upper.FDevs.Atividade01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:03:29.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\Upper.FDevs.Atividade02\\Program.cs",
+              "RelativeDocumentMoniker": "Upper.FDevs.Atividade02\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_Csharp_iniciante\\desafio\\ProjetoFDevs\\Upper.FDevs.Atividade02\\Program.cs",
+              "RelativeToolTip": "Upper.FDevs.Atividade02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:22:16.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

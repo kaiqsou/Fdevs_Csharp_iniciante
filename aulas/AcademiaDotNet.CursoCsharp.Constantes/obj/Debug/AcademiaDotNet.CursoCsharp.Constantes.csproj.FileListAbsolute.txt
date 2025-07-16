@@ -1,0 +1,7 @@
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\bin\Debug\AcademiaDotNet.CursoCsharp.Constantes.exe.config
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\bin\Debug\AcademiaDotNet.CursoCsharp.Constantes.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\bin\Debug\AcademiaDotNet.CursoCsharp.Constantes.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\obj\Debug\AcademiaDotNet.CursoCsharp.Constantes.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\obj\Debug\AcademiaDotNet.CursoCsharp.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\obj\Debug\AcademiaDotNet.CursoCsharp.Constantes.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.Constantes\obj\Debug\AcademiaDotNet.CursoCsharp.Constantes.pdb

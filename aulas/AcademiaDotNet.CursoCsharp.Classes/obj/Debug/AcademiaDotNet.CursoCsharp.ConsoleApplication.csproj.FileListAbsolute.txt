@@ -1,0 +1,8 @@
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\bin\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.exe.config
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\bin\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\bin\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\Aula01\AcademiaDotNet.CursoCsharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCsharp.ConsoleApplication.exe.config

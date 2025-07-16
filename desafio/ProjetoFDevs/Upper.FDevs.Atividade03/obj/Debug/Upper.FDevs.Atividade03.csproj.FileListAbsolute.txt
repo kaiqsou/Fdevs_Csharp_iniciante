@@ -1,0 +1,16 @@
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\bin\Debug\Upper.FDevs.Atividade03.exe.config
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\bin\Debug\Upper.FDevs.Atividade03.exe
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\bin\Debug\Upper.FDevs.Atividade03.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.exe
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.exe.config
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\bin\Debug\Upper.FDevs.Atividade03.exe.config
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\bin\Debug\Upper.FDevs.Atividade03.exe
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\bin\Debug\Upper.FDevs.Atividade03.pdb
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.exe.config
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.exe
+C:\Users\kaiqs\Desktop\Fdevs_Csharp_iniciante\desafio\ProjetoFDevs\Upper.FDevs.Atividade03\obj\Debug\Upper.FDevs.Atividade03.pdb

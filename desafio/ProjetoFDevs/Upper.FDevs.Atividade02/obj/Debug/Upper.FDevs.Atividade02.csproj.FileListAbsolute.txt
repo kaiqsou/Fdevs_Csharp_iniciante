@@ -1,0 +1,8 @@
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\bin\Debug\Upper.FDevs.Atividade02.exe.config
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\bin\Debug\Upper.FDevs.Atividade02.exe
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\bin\Debug\Upper.FDevs.Atividade02.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\obj\Debug\Upper.FDevs.Atividade02.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\obj\Debug\Upper.FDevs.Atividade02.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\obj\Debug\Upper.FDevs.Atividade02.exe
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\obj\Debug\Upper.FDevs.Atividade02.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\desafio\ProjetoFDevs\Upper.FDevs.Atividade02\obj\Debug\Upper.FDevs.Atividade02.exe.config

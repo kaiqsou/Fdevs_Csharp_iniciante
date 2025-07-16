@@ -1,0 +1,7 @@
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\bin\Debug\AcademiaDotNet.CursoCsharp.Arrays.exe.config
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\bin\Debug\AcademiaDotNet.CursoCsharp.Arrays.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\bin\Debug\AcademiaDotNet.CursoCsharp.Arrays.pdb
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\obj\Debug\AcademiaDotNet.CursoCsharp.Arrays.csproj.AssemblyReference.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\obj\Debug\AcademiaDotNet.CursoCsharp.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\obj\Debug\AcademiaDotNet.CursoCsharp.Arrays.exe
+C:\Users\kaiqs\Desktop\c#fdevs\aulas\AcademiaDotNet.CursoCsharp.Arrays\obj\Debug\AcademiaDotNet.CursoCsharp.Arrays.pdb
